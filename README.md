@@ -9,4 +9,4 @@
 
 ## 4. (04.09.2023) - [Modal](https://github.com/burakcersit/100-Days-of-JavaScript/tree/main/--%204.%20Modal)
 
-## 5. (05.09.2023) - [Palindrome Checker](https://github.com/burakcersit/100-Days-of-JavaScript/tree/main/--%204.%20Palindrome%20Checker)
+## 5. (05.09.2023) - [Palindrome Checker](https://github.com/burakcersit/100-Days-of-JavaScript/tree/main/-- 5. Palindrome Checker)
