@@ -6,3 +6,5 @@
 ## 2. (31.08.2023) - [Random Number Generator](https://github.com/burakcersit/100-Days-of-JavaScript/tree/main/--%202.%20Random%20Number%20Generator)
 
 ## 3. (01.09.2023) - [Random Hex Color Generator](https://github.com/burakcersit/100-Days-of-JavaScript/tree/main/--%203.%20Random%20Hex%20Color%20Generator)
+
+## 3. (04.09.2023) - [Random Hex Color Generator](https://github.com/burakcersit/100-Days-of-JavaScript/tree/main/--%204.%20Modal)
