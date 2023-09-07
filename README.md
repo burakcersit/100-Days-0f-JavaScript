@@ -12,4 +12,4 @@ Building amazing projects over the next 100 Days with HTML, CSS and JavaScript.
 
 ## 5. (05.09.2023) - [Palindrome Checker](https://github.com/burakcersit/100-Days-of-JavaScript/tree/main/--%205.%20Palindrome%20Checker)
 
-## 6. (06.09.2023) - [Vowel Counter App](https://github.com/burakcersit/100-Days-of-JavaScript/tree/main/--%206.%20vowel%20counter%20app)
+## 6. (06.09.2023) - [Vowel Counter App](https://github.com/burakcersit/100-Days-of-JavaScript/tree/main/--%206.%20Vowel%20Counter%20App)
