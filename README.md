@@ -17,3 +17,5 @@ Building amazing projects over the next 100 Days with HTML, CSS and JavaScript.
 ## 6. (07.09.2023) - [Click to Copy](https://github.com/burakcersit/100-Days-of-JavaScript/tree/main/--%207.%20Click%20to%20Copy)
 
 ## 7. (08.09.2023) - [Input Field Character Count](https://github.com/burakcersit/100-Days-of-JavaScript/tree/main/--%208.%20Input%20Field%20Character%20Count)
+
+## 8. (11.09.2023) - [Internet Connection Status Detector](https://github.com/burakcersit/100-Days-of-JavaScript/tree/main/--%209.%20Internet%20Connection%20Status%20Detector)
