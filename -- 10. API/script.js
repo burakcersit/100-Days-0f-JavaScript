@@ -7,7 +7,8 @@ btn.addEventListener("click", () => {
 
 function showPosition(position) {
   userLocation.innerHTML = `
-        Latitude: ${position.coords.latitude} <br>
+        Latitude: ${position.coords.latitude} 
+        <br>
         Longitude: ${position.coords.longitude}
     `;
 }
