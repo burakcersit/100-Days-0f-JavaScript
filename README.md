@@ -21,3 +21,5 @@ Building amazing projects over the next 100 Days with HTML, CSS and JavaScript.
 ## 9. (11.09.2023) - [Internet Connection Status Detector](https://github.com/burakcersit/100-Days-of-JavaScript/tree/main/--%209.%20Internet%20Connection%20Status%20Detector)
 
 ## 10. (12.09.2023) - [API](https://github.com/burakcersit/100-Days-of-JavaScript/tree/main/--%2010.%20API)
+
+## 11. (12.09.2023) - [List Search Project](https://github.com/burakcersit/100-Days-of-JavaScript/tree/main/--11.%20List%20Search%20Project)
