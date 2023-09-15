@@ -22,4 +22,6 @@ Building amazing projects over the next 100 Days with HTML, CSS and JavaScript.
 
 ## 10. (12.09.2023) - [API](https://github.com/burakcersit/100-Days-of-JavaScript/tree/main/--%2010.%20API)
 
-## 11. (12.09.2023) - [List Search Project](https://github.com/burakcersit/100-Days-of-JavaScript/tree/main/--11.%20List%20Search%20Project)
+## 11. (13.09.2023) - [List Search Project](https://github.com/burakcersit/100-Days-of-JavaScript/tree/main/--11.%20List%20Search%20Project)
+
+## 12. (14.09.2023) - [Date-Countdown](https://github.com/burakcersit/100-Days-of-JavaScript/tree/main/--12.%20Date-Countdown)
